@@ -154,13 +154,13 @@ const BASE_GOERLI_ADDRESSES: ChainAddresses = {
 }
 
 const BASE_SEPOLIA_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x434f93bc85e709C7c6760f1DfE793D35501EA671',
-  multicallAddress: '0xF2803E3990973134CfcC111cA1E352F0F424340d',
-  quoterAddress: '0x3A01b17b811D2d493Fa75cB6C7566f9dfd0EE907',
-  v3MigratorAddress: '0x574BEC2F413267aa4406859900B70393b84932c5',
-  nonfungiblePositionManagerAddress: '0xF600E798a8e526E7447aE67627f556EF90699bDe',
-  tickLensAddress: '0x71E3Ff66d495d6527d5D4f6BB1384e79538C5c07',
-  swapRouter02Address: '0x444b070B771741806d86A894b42C1bf57e808A6A'
+  v3CoreFactoryAddress: '0xD38A464A4446ea42A6d7EdC68A24e175b4Ff38Ae',
+  multicallAddress: '0x4791206C002070961dc90Aae506bc67772eb4866',
+  quoterAddress: '0x2e3EC76FF624b3Da4DaEC5B8A4c824537C6d519d',
+  v3MigratorAddress: '0x43ED1a904548bf2BEec0CA9e1E3ffd7d8f2e16FD',
+  nonfungiblePositionManagerAddress: '0x09fAd8A651dc4fdc3D59c38345747185e1c1d1b0',
+  tickLensAddress: '0x0724f6de4FdBAD4450340024C8A308Cf745e75D4',
+  swapRouter02Address: '0xD9513F4Aa02Ce0C1B47fee4d308dFe6f84a0e991'
 }
 
 export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses> = {
